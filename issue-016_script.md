@@ -54,14 +54,14 @@ Work - Telling the Decred story through Politeia**
 at the time of writing, jer979's proposal to write an article about politeia
 and the proposal process in return for 40 - 60 dcr (dependent on where the article
 is published) has received 4,279 Yes votes and 7,204 No votes for an approval rate
-of 37.3 percent with a voter participation of 27.9%.
+of 37.3 percent with a voter participation of 27.9%.  
 
 This has been a contentious proposal with discussion taking place both on reddit
 and Politeia. Early on in voting, Dustorf commented expressing support for jer979
 and the proposal quickly garnered a 60% approval rate. This prompted a post on
 reddit criticizing the proposal.
 
-fiach-dubh commented to highlight jer979s previous engagement with IOTA and expressed
+fiach-dubh {pronounced: *fee ah* **ch** *_ dub*} commented to highlight jer979s previous engagement with IOTA and expressed
 fear of a bait and switch.
 
 Jer979 responded with some context around their time at IOTA which
