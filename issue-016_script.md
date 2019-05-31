@@ -51,31 +51,18 @@ along with another 3 thousand per month for support staff.
 On May 22nd voting commenced for jer979's proposal titled **A Journey to the Future of
 Work - Telling the Decred story through Politeia**
 
-at the time of writing, jer979's proposal to write an article about politeia
-and the proposal process in return for 40 - 60 dcr (dependent on where the article
-is published) has received 4,279 Yes votes and 7,204 No votes for an approval rate
-of 37.3 percent with a voter participation of 27.9%.  
+Early on in voting, Dustorf commented expressing support for jer979
+and the proposal quickly garnered a 60% approval rate.
 
-This has been a contentious proposal with discussion taking place both on reddit
-and Politeia. Early on in voting, Dustorf commented expressing support for jer979
-and the proposal quickly garnered a 60% approval rate. This prompted a post on
-reddit criticizing the proposal.
-
-fiach-dubh {pronounced: *fee ah* **ch** *_ dub*} commented to highlight jer979s previous engagement with IOTA and expressed
-fear of a bait and switch.
+fiach-dubh {pronounced: *fee ah* **ch** *_ dub*} commented to highlight jer979s
+previous engagement with IOTA and expressed fear of a bait and switch.
 
 Jer979 responded with some context around their time at IOTA which
 appears to have persuaded fiach-dubh to support the proposal, while Dustorf
 seems to have rescinded his support.
 
-Other discussions sparked by this proposal concern the merit of this kind of
-single article relationship and the reasons why contractor payments are denominated
-in US Dollars.
-
 The proposal's approval rate initially hovered around 60% until a block of 3,992 no
 votes pushed it down to 38%.
-
-Voting on this proposal closes on May 29th.
 
 ### Approved proposals
 
